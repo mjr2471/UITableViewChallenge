@@ -1,5 +1,5 @@
 //
-//  MJRViewController.h
+//  MJRTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Mark Rascoe on 9/6/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MJRViewController : UIViewController
+@interface MJRTableViewController : UITableViewController
 
 @end
